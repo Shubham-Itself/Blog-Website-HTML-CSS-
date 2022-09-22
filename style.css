@@ -1,0 +1,280 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-one {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.second-item li {
+  font-family: "Baloo Bhai 2", cursive;
+  font-size: 20px;
+  padding: 10px;
+  list-style: none;
+  float: left;
+}
+.second-item li:hover {
+  border-radius: 15px;
+  background-color: red;
+  color: white;
+}
+
+.first-item {
+  font-family: "Baloo Bhai 2", cursive;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.section-two {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.t-one {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+
+.t-one h1 {
+  font-family: "Baloo Bhai 2", cursive;
+  font-size: 60px;
+}
+
+.t-one h4 {
+  color: red;
+
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+.t-two img {
+  border-radius: 40px;
+}
+
+.section-three {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  background-color: black;
+  color: whitesmoke;
+  box-shadow: 5px 5px 10px 5px grey;
+
+  margin-top: 30px;
+  border: 1px solid grey;
+  padding: 10px;
+}
+
+.th-one {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+
+.th-two {
+  color: brown;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.th-one h2 {
+  font-family: "Baloo Bhai 2", cursive;
+  font-size: 25px;
+  padding: 5px 0px;
+}
+
+.th-one p {
+  font-size: 18px;
+  padding: 10px 0px;
+}
+
+.item-2 {
+  font-weight: bolder;
+}
+
+.p-tag {
+  font-size: 17px;
+}
+
+.part-one {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-four {
+  margin-top: 50px;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.cards {
+  max-width: 320px;
+
+  box-shadow: 2px 2px 10px lightgrey;
+}
+
+.cards img {
+  width: 320px;
+}
+
+.cards h2 {
+  font-family: "Baloo Bhai 2", cursive;
+  padding: 10px 0px;
+}
+
+.cards p {
+  padding: 10px 0px;
+}
+
+.textarea {
+  padding: 10px;
+}
+
+.six-container {
+  margin-top: 50px;
+  border-top: 2px solid grey;
+}
+.section-six {
+  padding: 20px 0px;
+
+  max-width: 1200px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.second-item2 li {
+  list-style: none;
+  float: left;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.first-item1 {
+  /* font-family: 'Baloo Bhai 2', cursive; */
+  font-size: 20px;
+}
+
+.sec-one {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item-21 li {
+  list-style: none;
+  float: left;
+  padding: 15px;
+  font-size: 20px;
+}
+
+.item-11 {
+  font-family: "Baloo Bhai 2", cursive;
+  padding: 15px;
+}
+
+.container-2 {
+  margin-top: 30px;
+}
+
+.sec-two {
+  max-width: 1200px;
+  margin: 0 auto;
+  border-bottom: 2px solid grey;
+}
+
+.banner-img img {
+  width: 100%;
+}
+
+.text-22 {
+  padding: 10px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-21 {
+  font-family: "Baloo Bhai 2", cursive;
+  padding: 10px 0px;
+  font-size: 30px;
+}
+
+.text-23 {
+  font-size: 18px;
+}
+
+.text-24 {
+  color: grey;
+}
+
+.text-22 {
+  padding-bottom: 80px;
+}
+
+.container-3 {
+  margin-top: 40px;
+}
+
+.sec-three {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.text-32 {
+  padding: 20px 0px;
+  font-size: 22px;
+}
+
+.text-31 h2 {
+  font-family: "Baloo Bhai 2", cursive;
+  font-size: 30px;
+}
+
+.container-4 {
+  margin-top: 50px;
+  border-top: 2px solid grey;
+}
+
+.sec-four {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item-41 {
+  padding: 10px 0px;
+  font-size: 18px;
+}
+
+.item-42 li {
+  float: left;
+  list-style: none;
+  font-size: 20px;
+
+  padding: 20px;
+  color: black;
+}
+
+.item-42 {
+  padding: 10px 0px;
+}
+
+a {
+  color: brown;
+  text-decoration: none;
+}
